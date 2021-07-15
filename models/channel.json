@@ -1,0 +1,26 @@
+{
+   "channel": {
+      "title": "testmessagechannel",
+      "username": null,
+      "id": -1001580754688
+   },
+   "time_interval": 7,
+   "delay_time": 5400,
+   "urls": [
+      "https://www.voanews.com/episode/start-creates-robot-help-kids-relax-doctors-office-4732741",
+      "https://www.voanews.com/silicon-valley-technology/judge-dismisses-government-antitrust-lawsuits-against-facebook",
+      "https://www.voanews.com/usa/ukrainian-member-cybercrime-gang-sentenced-us",
+      "https://www.voanews.com/economy-business/casino-tech-even-chips-have-chips-newest-vegas-resort",
+      "https://www.voanews.com/usa/us-lawmakers-marathon-debate-big-tech-regulation-bills",
+      "https://www.voanews.com/europe/mcafee-antivirus-software-creator-found-dead-spanish-prison",
+      "https://www.voanews.com/silicon-valley-technology/cyberbullying-trial-tests-french-tools-fight-online-abuse",
+      "https://www.voanews.com/europe/eu-investigates-googles-advertising-business",
+      "https://www.voanews.com/episode/disruptions-wi-fi-waves-could-help-catch-trespassers-4726356",
+      "https://www.voanews.com/student-union/stem-jobs-lead-list-fastest-growing-occupations",
+      "https://www.voanews.com/usa/takeaways-biden-putin-cyber-summit",
+      "https://www.voanews.com/silicon-valley-technology/facial-recognition-technology-solves-crimes-what-cost",
+      "https://www.voanews.com/episode/facial-recognition-technology-plays-important-law-enforcement-role-what-cost-4721391",
+      "https://www.voanews.com/silicon-valley-technology/internet-outages-briefly-disrupt-access-websites-apps",
+      "https://www.voanews.com/economy-business/bidens-new-ftc-head-could-make-big-tech-sweat"
+   ]
+}
